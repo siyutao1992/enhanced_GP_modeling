@@ -5,6 +5,6 @@
 * **File descriptions**:
   * "GPM_1.0.tar.gz": GPM package for local installation
   * "GPM_1.0.zip": GPM package for local installation
-  * "GPM_1.0_SOURCE": folder containing source code of the GPM package
+  * "GPM_1.0_source": folder containing source code of the GPM package
   * "datasets&results": folder containing test datasets and the saved result files
   * "GPM&GPfit_test_Ex1thru7_SaveInTime.R" script for testing the new method against the existing method (package) "GPfit"
